@@ -1,3 +1,19 @@
+HTML
+
+understands what the particular code means, couldn’t exploit an issue properly or couldn’t even code in general, and I’m, still trying my best to catch up to speed so i’ll suggest you guys not to skip these parts and go directly towards Bug Bounties.
+
+
+SQL(Structured Query Language): , I’m no expert or even a starter i’m just a learner in Programming so sharing the resources i’m currently following. Like you know XSS, HTML injections, PHP Injections, SQLi etc and Many
+
+Insecure Direct Object Reference (IDOR)
+
+Server Side Request Forgery (SSRF)
+
+dnscan https://github.com/rbsec/dnscan
+Knockpy https://github.com/guelfoweb/knock
+Sublist3r
+
+
 IG djevafrass_
 Soundclound.com/ddjevafrass
 DJEvaFrass_
